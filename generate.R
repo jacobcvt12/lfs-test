@@ -1,5 +1,5 @@
-files <- 100
-data.len <- 10000
+files <- 5
+data.len <- 1000000 # 1M obs
 
 for (i in seq_len(files)) {
     data <- rnorm(data.len)
