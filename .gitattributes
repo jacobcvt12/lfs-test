@@ -1,5 +1,0 @@
-data/data-1.RDS filter=lfs diff=lfs merge=lfs -text
-data/data-2.RDS filter=lfs diff=lfs merge=lfs -text
-data/data-3.RDS filter=lfs diff=lfs merge=lfs -text
-data/data-4.RDS filter=lfs diff=lfs merge=lfs -text
-data/data-5.RDS filter=lfs diff=lfs merge=lfs -text
